@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taqtics/static/css/main.7cbd5c6b.css",
+    "main.js": "/taqtics/static/js/main.c5bbb9e4.js",
+    "index.html": "/taqtics/index.html",
+    "main.7cbd5c6b.css.map": "/taqtics/static/css/main.7cbd5c6b.css.map",
+    "main.c5bbb9e4.js.map": "/taqtics/static/js/main.c5bbb9e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cbd5c6b.css",
+    "static/js/main.c5bbb9e4.js"
+  ]
+}
